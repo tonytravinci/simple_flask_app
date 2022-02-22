@@ -1,0 +1,8 @@
+#Ignore the migrations directory
+migrations/
+
+#Ignoring the Pipfile.lock file
+Pipfile.lock
+
+#Ingoring the gitignore file
+*.gitignore
